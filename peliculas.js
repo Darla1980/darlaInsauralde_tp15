@@ -1,0 +1,38 @@
+module.exports = [
+    {
+        title: "The Mask (1994)",
+        id: 4,
+        rating: 7.0,
+        awards: 6,
+        length: "1h 41min",
+        price: 4000,
+        genre: "Comedy",
+    },
+    {
+        title: "The Crow (1994)",
+        id: 5,
+        rating: 7.5,
+        awards: 5,
+        length: "1h 42min",
+        price: 5000,
+        genre: "Fantasy",
+    },
+    {
+        title: "Shrek (2001)",
+        id: 6,
+        rating: 7.9,
+        awards: 40,
+        length: "1h 30min",
+        price: 2000,
+        genre: "Comedy",
+    },
+    {
+        title: "Pretty Woman (1990)",
+        id:7,
+        rating: 7.1,
+        awards: 8,
+        length: "1h 59min",
+        price: 4000,
+        genre: "Romance",
+    },
+]
